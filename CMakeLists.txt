@@ -82,7 +82,7 @@ set(ARDUINO_ALL_LIBRARIES
   BluetoothSerial
   DNSServer
   EEPROM
-  ESP_I2S
+  #ESP_I2S
   ESP_NOW
   ESP_SR
   ESPmDNS
